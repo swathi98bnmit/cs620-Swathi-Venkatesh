@@ -1,2 +1,2 @@
-# cs620
+# cs795
  One page resume
